@@ -1,16 +1,17 @@
-### Hi there 👋
+### Ola, Mundo! Seja bem-vindo(a)
 
-<!--
-**felipesantos10/felipesantos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Prazer, Sou o Felipe! Um cara que ama tecnologia e principalmente programação 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓Graduando em Analise de Sistema na [UNDB](https://www.undb.edu.br/)
+💻Experiencia: Python, UX, Scrum, SQL 
+📚Estou aprendendo: Javascript, html, css, Nodejs.
+🎯 Tenho interesse: ReactNative, Flutter.
+
+O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
+
+**Contato**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-5623a8197/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com)

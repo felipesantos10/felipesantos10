@@ -5,8 +5,11 @@ Prazer, Sou o Felipe! Um cara que ama tecnologia e principalmente programação 
 
 
 🎓Graduando em Analise de Sistema na [UNDB](https://www.undb.edu.br/)
+
 💻Experiencia: Python, UX, Scrum, SQL 
+
 📚Estou aprendendo: Javascript, html, css, Nodejs.
+
 🎯 Tenho interesse: ReactNative, Flutter.
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 

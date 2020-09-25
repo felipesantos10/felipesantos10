@@ -11,5 +11,4 @@
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
 **Contato**
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-5623a8197/)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com)

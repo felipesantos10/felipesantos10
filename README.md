@@ -1,14 +1,14 @@
 ## Ola, Mundo! Seja bem-vindo(a)
 
 #### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
-
-
-- 🎓Graduando em Analise de Sistema na [UNDB](https://www.undb.edu.br/)
-- 💻Experiencia: UX, Scrum, Git, Prototipação, Figma
-- 📚Estou aprendendo: Javascript, html, css, Nodejs, bootstrap
-- 🎯 Tenho interesse: ReactJs, TypeScript, Java
-
-O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
+  
+• 🎒Graduando em Analise de Sistema na UNDB, atualmente no 8 período.  
+• 💜Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
+• 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX  
+  
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
+  
+There is always something new to learn  🚀 
 
 **Contato**
 

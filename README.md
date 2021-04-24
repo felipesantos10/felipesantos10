@@ -1,4 +1,4 @@
-## Ola, Mundo!🌎 Seja bem-vindo(a)
+## Olá, Mundo!🌎 Seja bem-vindo(a)
 
 #### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
   

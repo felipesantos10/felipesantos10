@@ -1,5 +1,7 @@
 ## Olá, Mundo!🌎 Seja bem-vindo(a)
 
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/programa%C3%A7%C3%A3o.jpg" width="500"/>
+
 #### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
   
 • 🎒Graduando em Analise de Sistema na UNDB, atualmente no 8 período.  

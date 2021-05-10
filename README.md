@@ -6,7 +6,7 @@
   
 • 🎒Graduando em Analise de Sistema na UNDB, atualmente no 8 período.  
 • 💜Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
-• 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX  
+• 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX , UI 
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
   

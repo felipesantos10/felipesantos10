@@ -4,7 +4,7 @@
 
 #### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
   
-• 🎒Graduando em Analise de Sistema na UNDB, atualmente no 8 período.  
+• 🎒Graduando em Sistema de Informação na UNDB, atualmente no 8 período.  
 • 💜Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
 • 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX , UI 
   

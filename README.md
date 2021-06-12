@@ -19,6 +19,9 @@ There is always something new to learn  🚀
   <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos10&layout=compact&theme=dark"/></a> 
   <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=felipesantos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="felipesantos10"/></a>
 </p> 
+
+![Snake animation](https://github.com/felipesantos10/felipesantos10/blob/master/snake)
+ 
   
 
  

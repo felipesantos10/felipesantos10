@@ -4,8 +4,8 @@
 
 #### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
   
-• 🎒Graduado em Sistema de Informação na UNDB 
-• 💜Tenho experiencia com Scrum, Figma, Python, Linux, Git, Github  
+• 🎒Graduado em Sistema de Informação na UNDB          
+• 💜Tenho experiencia com Html, Css, Python, Linux, Git, Github  
 • 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX , UI 
   
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  

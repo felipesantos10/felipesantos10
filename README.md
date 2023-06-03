@@ -2,13 +2,13 @@
 
 <img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
 
-#### Prazer, Sou o Felipe! Um cara que ama tecnologia  👨‍💻
+#### Prazer, Sou o Felipe!  👨‍💻
   
-• 🎒Graduado em Sistema de Informação na UNDB          
-• 💜Tenho experiencia com Html, Css, Python, Linux, Git, Github  
-• 👨‍💻Estou aprendendo: Html, Css, JavaScript, UX , UI 
-  
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.  
+• Graduado em Sistema de Informação 
+• Software developer frontend 
+• Tenho experiencia com HTML5, CSS3,
+
+• 🎯 Objetivo: Desenvolvedor Full Stack.  
   
 There is always something new to learn  🚀 
 

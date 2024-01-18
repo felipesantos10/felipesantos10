@@ -4,11 +4,10 @@
 
 #### Prazer, Sou o Felipe!  👨‍💻
   
-• Graduado em Sistema de Informação 
-• Software developer frontend 
-• Tenho experiencia com HTML5, CSS3, 
+• Graduado em Sistema de Informação pela Centro Universitario Dom Bosco
+• Software developer frontend com + 2 anos de experincia 
 
-• 🎯 Objetivos em 2024: Continuar os estudos para ser Desenvolvedor Full Stack , Pós Graduação em Engenharia de Softwares e Inglês  
+• 🎯 Objetivos em 2024: Continuar os estudos para ser Desenvolvedor Full Stack ,Iniciar a Pós Graduação em Engenharia de Softwares e Inglês  
   
 There is always something new to learn  🚀 
 

@@ -6,9 +6,9 @@
   
 • Graduado em Sistema de Informação 
 • Software developer frontend 
-• Tenho experiencia com HTML5, CSS3,
+• Tenho experiencia com HTML5, CSS3, 
 
-• 🎯 Objetivo: Desenvolvedor Full Stack.  
+• 🎯 Objetivos em 2024: Continuar os estudos para ser Desenvolvedor Full Stack , Pós Graduação em Engenharia de Softwares e Inglês  
   
 There is always something new to learn  🚀 
 

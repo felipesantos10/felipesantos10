@@ -5,7 +5,8 @@
 #### Prazer, Sou o Felipe!  👨‍💻
   
 • Graduado em Sistema de Informação pela Centro Universitario Dom Bosco
-• Software developer frontend com + 2 anos de experincia 
+• Software Developer frontend com + 2 anos de experincia
+• Apaixonado por Gamificação
 
 • 🎯 Objetivos em 2024: Continuar os estudos para ser Desenvolvedor Full Stack ,Iniciar a Pós Graduação em Engenharia de Softwares e Inglês  
   

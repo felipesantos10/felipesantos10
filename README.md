@@ -1,6 +1,6 @@
 ## Olá, Mundo!🌎 Seja bem-vindo(a)
 
-<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="425"/>
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="415"/>
 
 #### Prazer, Sou o Felipe!  👨‍💻
   

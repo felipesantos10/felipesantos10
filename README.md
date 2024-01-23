@@ -8,7 +8,10 @@
 • Software Developer frontend com + 2 anos de experincia
 • Apaixonado por Gamificação
 
-• 🎯 Objetivos em 2024: Continuar os estudos para ser Desenvolvedor Full Stack ,Iniciar a Pós Graduação em Engenharia de Softwares e Inglês  
+• 🎯 Objetivos em 2024: 
+• Continuar os estudos para Desenvolvedor Full Stack ,
+• Iniciar a Pós Graduação em Engenharia de Softwares e 
+• Aprender Inglês  
   
 There is always something new to learn  🚀 
 

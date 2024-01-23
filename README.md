@@ -15,7 +15,7 @@
   
 There is always something new to learn  🚀 
 
-## Onde me encontrar!
+### Onde me encontrar!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com)  [![](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=&logoColor=white&link=https://https://app.rocketseat.com.br/me/felipesantos)](https://app.rocketseat.com.br/me/felipesantos)
 <p align = "center">

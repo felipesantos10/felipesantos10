@@ -2,20 +2,20 @@
 
 <img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="550"/>
 
-#### Prazer, Sou o Felipe!  👨‍💻
+### Prazer, Sou o Felipe!  👨‍💻
   
 • Graduado em Sistema de Informação pelo Centro Universitario Dom Bosco
 • Software Developer frontend com + 2 anos de experiencia
 • Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
-### Objetivos em 2024: 
+#### Objetivos em 2024: 
 • Continuar os estudos para Desenvolvedor Full Stack ,
 • Iniciar a Pós Graduação em Engenharia de Softwares e 
 • Aprender Inglês  
   
 Filipenses 4.13  🚀 
 
-### Onde me encontrar!
+#### Onde me encontrar!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com) 
 <p align = "center">

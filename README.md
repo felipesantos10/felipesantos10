@@ -1,6 +1,6 @@
 ## Olá, Mundo!🌎 Seja bem-vindo(a)
 
-<img align="top" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="550"/>
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/image.png" width="550"/>
 
 #### Prazer, Sou o Felipe!  👨‍💻
   
@@ -8,7 +8,7 @@
 • Software Developer frontend com + 2 anos de experiencia
 • Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
-• 🎯 Objetivos em 2024: 
+### 🎯 Objetivos em 2024: 
 • Continuar os estudos para Desenvolvedor Full Stack ,
 • Iniciar a Pós Graduação em Engenharia de Softwares e 
 • Aprender Inglês  

@@ -4,16 +4,16 @@
 
 #### Prazer, Sou o Felipe!  👨‍💻
   
-• Graduado em Sistema de Informação pela Centro Universitario Dom Bosco
+• Graduado em Sistema de Informação pelo Centro Universitario Dom Bosco
 • Software Developer frontend com + 2 anos de experiencia
-• Apaixonado por Gamificação
+• Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
 • 🎯 Objetivos em 2024: 
 • Continuar os estudos para Desenvolvedor Full Stack ,
 • Iniciar a Pós Graduação em Engenharia de Softwares e 
 • Aprender Inglês  
   
-There is always something new to learn  🚀 
+Filipenses 4.13  🚀 
 
 ### Onde me encontrar!
 

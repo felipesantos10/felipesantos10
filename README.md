@@ -9,7 +9,7 @@
 • Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
 #### Objetivos em 2024: 
-• Continuar os estudos para Desenvolvedor Full Stack ,
+• Continuar os estudos para Desenvolvedor Full Stack 
 • Iniciar a Pós Graduação em Engenharia de Softwares e 
 • Aprender Inglês  
   

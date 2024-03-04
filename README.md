@@ -15,6 +15,11 @@
   
 Filipenses 4.13  🚀 
 
+<h4>Linguagens e  Ferramentas:</h4>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,python,nodejs,express,git,figma,github,vscode," />
+</a>
+
 #### Onde me encontrar!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-felipe-5623a8197/)](https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtofelipedev.ti@gmail.com)](mailto:felipedev.ti@gmail.com) 

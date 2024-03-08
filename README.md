@@ -16,7 +16,7 @@
 
 <h4>Linguagens e  Ferramentas:</h4>
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,css,html,python,nodejs,express,git,figma,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=javascript,css,html,python,nodejs,git,figma,github,vscode" />
 </a>
 
 #### Onde me encontrar!

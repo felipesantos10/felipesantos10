@@ -8,12 +8,11 @@
 • Software Developer frontend com + 2 anos de experiencia
 • Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
-#### Objetivos em 2024: 
-• Continuar os estudos para Desenvolvedor Full Stack 
-• Iniciar a Pós Graduação em Engenharia de Softwares e 
-• Aprender Inglês  
-  
-Filipenses 4.13  🚀 
+#### Estudando: 
+• Gerenciamento de Projetos pelo Coursera + Google 
+• SQL
+• Desenvolvimento web  
+   
 
 <h4>Linguagens e  Ferramentas:</h4>
 <a href="https://skillicons.dev"   >

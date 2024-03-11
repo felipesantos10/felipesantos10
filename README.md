@@ -4,14 +4,15 @@
 
 ### Prazer, Sou o Felipe!  👨‍💻
   
-• Graduado em Sistema de Informação pelo Centro Universitario Dom Bosco(UNDB)
-• Software Developer frontend com + 2 anos de experiencia
-• Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
+- Graduado em Sistema de Informação pelo Centro Universitario Dom Bosco(UNDB)
+- Software Developer frontend com + 2 anos de experiencia
+- Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 
 #### Estudando: 
-• Gerenciamento de Projetos pelo Coursera + Google 
-• SQL
-• Desenvolvimento web  
+- Gerenciamento de Projetos pelo Coursera + Google 
+- SQL pelo livro "SQL: Guia Pratico
+- Desenvolvimento web pela Origamid
+- UI design pela Origamid 
    
 
 <h4>Linguagens e  Ferramentas:</h4>

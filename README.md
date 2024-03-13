@@ -4,7 +4,7 @@
 
 ### Prazer, Sou o Felipe!  👨‍💻
   
-- Graduado em Sistema de Informação pelo Centro Universitario Dom Bosco(UNDB)
+- Bacharel em Sistema de Informação pelo Centro Universitario Dom Bosco(UNDB)
 - Software Developer frontend com + 2 anos de experiencia
 - Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
 

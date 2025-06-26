@@ -4,15 +4,12 @@
 
 ### Prazer, Sou o Felipe!  👨‍💻
   
-- Bacharel em Sistema de Informação pelo Centro Universitario Dom Bosco(UNDB)
-- Software Developer frontend com + 2 anos de experiencia
-- Apaixonado por Gamificação, Tecnologia, Inovação e Ciencia
-
+- Sou Bacharel em Sistemas de Informação pelo Centro Universitário Dom Bosco (UNDB) e atualmente atuo como escrevente de cartório.
+- Após um período atuando fora da área de tecnologia, estou retornando com foco total ao desenvolvimento de software
+- Sou apaixonado por gamificação, tecnologia, inovação e ciência
+- 
 #### 📚 Meus Estudos: 
-- Gerenciamento de Projetos pelo Coursera + Google 
-- SQL pelo livro "SQL: Guia Pratico
 - Desenvolvimento web pela Origamid
-- UI design pela Origamid 
    
 
 #### 🚀 Linguagens e  Ferramentas:
